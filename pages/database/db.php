@@ -1,7 +1,7 @@
 <?php
 $localhost="localhost";
-$user="root";
-$password="@Microsoft2010";
+$user="aringo";
+$password="Bugatti!02";
 $db_name="ematatu";
 
 //create connecting to the server and database
@@ -15,7 +15,3 @@ if($con){
 else{
     echo "Connection to server is error";
 }
-
-
-
-?>
